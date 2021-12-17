@@ -1,0 +1,250 @@
+475  cd empire
+  476  ls
+  477  cd rebellion
+  478  cd millenium_falcon
+  479  cd death_star
+  480  ls
+  481  mv millenium_falcon* death_star
+  482  rm rf-obi_wan.txt
+  483  ls
+  484  cd death_star
+  485  ls
+  486  rm obi_wan.txt
+  487  cd millenium_falcon
+  488  cd star_wars
+  489  cd death_star
+  490  ls
+  491  mv death_star* millenium_falcon
+  492  cd
+  493  ls
+  494  cd sei
+  495  ls
+  496  cd Star_Wars
+  497  ls
+  498  cd star_wars
+  499  ls
+  500  cd rebellion
+  501  ls
+  502  touch millenium_falcon
+  503  mv chewbacca.txt millenium falcon
+  504  mv chewbacca.txt rebellion/millenium_falcon
+  505  rm millenium_falcon
+  506  mkdir millenium_falcon
+  507  ls
+  508  rm millenium_falcon
+  509  rm rf Millenium_falcon
+  510  ls
+  511  rm millenium_falcon
+  512  mv ../
+  513  mv ../empire/death_star/death_star/chewbacca.txt millenium_falcon
+  514  touch test.js
+  515  rm test.js
+  516  mv ../empire/death_star/death_star/han_solo.txt millenium_falcon
+  517  mv ../empire/death_star/death_star/luke_skywalker.txt millenium_falcon
+  518  mv ../empire/death_star/death_star/princess_leia.txt millenium_falcon
+  519  mv ../millenium_falcon rebellion
+  520  cd star_wars
+  521  cd Star_Wars
+  522  cd death_star
+  523  cd starwars
+  524  cd empire
+  525  cd millenium_falcon
+  526  ls
+  527  cd rebellion
+  528  cd STAR_WARS/star_wars/rebellion
+  529  mv ../empire/death_star/death_star/darth_vader.txt empire
+  530  ..
+  531  ..
+  532  cd empire
+  533  ls
+  534  ..
+  535  cd star_wars
+  536  cd rebellion
+  537  mv ../star_wars/death_star/darth_vader.txt star_wars/empire
+  538  code .
+  539  ..
+  540  cd STAR_WARS
+  541  cd star_wars
+  542* pwd
+  543* ls
+  544* cd sei
+  545* ls
+  546  pwd
+  547  ls
+  548  cd sei
+  549  ls
+  550  cd Star_Wars
+  551  ls
+  552* cd Star_Wars
+  553* ls
+  554* cd star_wars
+  555* ls
+  556  cd star_wars
+  557  ls
+  558  ..
+  559  mv star_wars/empire/death_star/darth_vader.txt star_wars/empire
+  560  rm death_star
+  561  rm star_wars/empire/death_star
+  562  rm star_wars/empire/death_star/darth_vader.txt
+  563  ls
+  564  cd star_wars
+  565  rm empire/death_star/darth_vader.txt
+  566* cd sei/fundamentals/js
+  567* touch arrays.js
+  568* code .
+  569* cd ~
+  570* git status
+  571* rm -rf .git
+  572* git status
+  573* cd sei
+  574* git status
+  575* ls
+  576* \nsh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)
+  577* \nsh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
+  578* node intro.js
+  579* node functions.js
+  580* node function.js
+  581* cd sei
+  582* cd function
+  583* ls
+  584* echo "Help me, Obi-Wan...You're my only hope." > star_wars/rebellion/princess_leia.txt\n
+  585* touch star_wars/rebellion/obi_wan.txt
+  586* touch star_wars/rebellion/luke_skywalker.txt
+  587* mkdir star_wars/rebellion/millenium_falcon
+  588* touch star_wars/rebellion/millenium_falcon/han_solo.txt && touch star_wars/rebellion/millenium_falcon/chewbacca.txt
+  589* ls
+  590* mv star_wars/rebellion/luke_skywalker.txt star_wars/rebellion/millenium_falcon
+  591* mv star_wars/rebellion/obi_wan.txt star_wars/rebellion/millenium_falcon
+  592* mv star_wars/rebellion/princess_leia.txt star_wars/rebellion/millenium_falcon
+  593* mv star_wars/rebellion/millenium_falcon star_wars/empire/death_star
+  594* git status
+  595* git add .
+  596* git status
+  597* git commit -m "this is my starwRS  act 1&2"
+  598* git push origin main
+  599* mv star_wars/millenium_falcon/* star_wars/empire/death_star
+  600* ls
+  601* cd star_wars
+  602* ls
+  603* mv star_wars/millenium_falcon/* star_wars/empire/death_star
+  604* mv star_wars/millenium_falcon* star_wars/empire/death_star
+  605* pwd
+  606* mv star_wars/empire/death_star/millenium_falcon/* star_wars/empire/death_star
+  607* ls
+  608* cd empire
+  609* ls
+  610* cd death_star
+  611* ls
+  612* cd millenium_falcon
+  613* ls
+  614* cd Star_Wars
+  615* cd star_wars
+  616* ls
+  617* mv millenium_falcon/* star_wars/empire/death_star 
+  618* pwd
+  619* cd
+  620* ls
+  621* sei/Star_Wars/star_wars
+  622* sei/star_wars
+  623* cd Star_Wars
+  624* cd star_wars
+  625* cd
+  626* ls
+  627* cd sei
+  628* ls
+  629* cd Star_Wars
+  630* ls
+  631* cd star_wars
+  632* ls
+  633* cd empire
+  634* ls
+  635* cd rebellion
+  636* cd millenium_falcon
+  637* cd death_star
+  638* ls
+  639* mv millenium_falcon* death_star
+  640* rm rf-obi_wan.txt
+  641* ls
+  642* cd death_star
+  643* ls
+  644* rm obi_wan.txt
+  645* cd millenium_falcon
+  646* cd star_wars
+  647* cd death_star
+  648* ls
+  649* mv death_star* millenium_falcon
+  650* cd
+  651* ls
+  652* cd sei
+  653* ls
+  654* cd Star_Wars
+  655* ls
+  656* cd star_wars
+  657* ls
+  658* cd rebellion
+  659* ls
+  660* touch millenium_falcon
+  661* mv chewbacca.txt millenium falcon
+  662* mv chewbacca.txt rebellion/millenium_falcon
+  663* rm millenium_falcon
+  664* mkdir millenium_falcon
+  665* ls
+  666* rm millenium_falcon
+  667* rm rf Millenium_falcon
+  668* ls
+  669* rm millenium_falcon
+  670* mv ../
+  671* mv ../empire/death_star/death_star/chewbacca.txt millenium_falcon
+  672* touch test.js
+  673* rm test.js
+  674* mv ../empire/death_star/death_star/han_solo.txt millenium_falcon
+  675* mv ../empire/death_star/death_star/luke_skywalker.txt millenium_falcon
+  676* mv ../empire/death_star/death_star/princess_leia.txt millenium_falcon
+  677* mv ../millenium_falcon rebellion
+  678* cd star_wars
+  679* cd Star_Wars
+  680* cd death_star
+  681* cd starwars
+  682* cd empire
+  683* cd millenium_falcon
+  684* ls
+  685* cd rebellion
+  686* cd STAR_WARS/star_wars/rebellion
+  687* mv ../empire/death_star/death_star/darth_vader.txt empire
+  688* ..
+  689* cd empire
+  690* ls
+  691* ..
+  692* cd star_wars
+  693* cd rebellion
+  694* mv ../star_wars/death_star/darth_vader.txt star_wars/empire
+  695* code .
+  696* ..
+  697* cd STAR_WARS
+  698* cd star_wars
+  699* pwd
+  700* ls
+  701* cd sei
+  702* ls
+  703* pwd
+  704* ls
+  705* cd sei
+  706* ls
+  707* cd Star_Wars
+  708* ls
+  709* cd Star_Wars
+  710* ls
+  711* cd star_wars
+  712* ls
+  713* cd star_wars
+  714* ls
+  715* ..
+  716* mv star_wars/empire/death_star/darth_vader.txt star_wars/empire
+  717* rm death_star
+  718* rm star_wars/empire/death_star
+  719* rm star_wars/empire/death_star/darth_vader.txt
+  720* ls
+  721* cd star_wars
+  722* rm empire/death_star/darth_vader.txt
+  723  git init
+  724  history
